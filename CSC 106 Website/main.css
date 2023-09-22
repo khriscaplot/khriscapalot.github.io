@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(179,179,179);
+    
+}
+#body-javascript{
+    background-color: rgb(179, 179, 179);
+}
+#body-about{
+    background-color: rgb(179, 179, 179);
+    background-image: url(mebackground.png);
+}
+}
+p{
+    color:rgb(0, 0, 0);
+}
+h1{
+    color: rgb(0, 0, 0);
+}
